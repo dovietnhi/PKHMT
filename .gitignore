@@ -21,4 +21,4 @@ dist/
 .ipynb_checkpoints/
 
 #data
-data/
+dataset/

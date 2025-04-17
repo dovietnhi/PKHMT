@@ -4,6 +4,7 @@ Dự án nhận dạng chữ viết tay tiếng Việt từ ảnh sử dụng m�
 
 ## 📁 Cấu trúc thư mục
 
+```bash
 DAKHMT/
 │
 ├── .gitignore
@@ -17,17 +18,7 @@ DAKHMT/
 ├── tests/
 │   └── test_main.py
 │
-├── .vscode/
-│   ├── launch.json
-│   └── settings.json
-│
-└── data/
-    ├── InkData_line
-    ├── InkData_word
-    ├── InkData_paragraph
-    ├── InkData_line.csv
-    ├── InkData_word.csv
-    └── InkData_paragraph.csv
+└── dataset/
 
 ## ⚙️ Hướng dẫn chạy
 
